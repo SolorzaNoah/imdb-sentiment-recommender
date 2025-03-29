@@ -21,7 +21,8 @@ An AI-powered movie recommendation system that compares the sentiment *vibe* of 
 
 ## 🖥️ Demo (Streamlit UI)
 
-![screenshot](https://via.placeholder.com/800x400.png?text=Streamlit+Movie+Recommender+Demo)
+![image](https://github.com/user-attachments/assets/38f55d53-d510-453c-b191-5cd58e8011aa)
+
 
 ---
 
